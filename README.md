@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BashirYesufu
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Swift
+- 👀 I am an iOS Developer
+- 🌱 I’m currently working with Swift and Dart
 - 💞️ I’m looking to collaborate on projects to help me build my skills
 - 📫 I can be reached at yesufubashir@gmail.com
 
