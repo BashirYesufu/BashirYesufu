@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BashirYesufu
 - 👀 I am an iOS Developer
-- 🌱 I’m currently working with Swift and Dart
+- 🌱 I’m currently working with Swift, UIKit, Flutter and Dart
 - 💞️ I’m looking to collaborate on projects to help me build my skills
 - 📫 I can be reached at yesufubashir@gmail.com
 
