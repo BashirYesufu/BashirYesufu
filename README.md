@@ -1,4 +1,4 @@
-![Header](assets/header.png)
+![Header](assets/header.jpg)
 
 - 👋 Hi, I’m @BashirYesufu
 - 👀 I am an iOS Developer
