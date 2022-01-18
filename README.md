@@ -1,4 +1,4 @@
-![Header](assets/angle-bracket.png)
+![Header](assets/header.png)
 
 - 👋 Hi, I’m @BashirYesufu
 - 👀 I am an iOS Developer
