@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/bashir-yesufu-a186a6177/"><img height="30" alt="Bash's LinkedIn" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/linkedin.png"></a>
 </p>
 
-- 👋 Hi, my name is Bashir, but my friends call me Bash. You can too!🥳
+- 👋 Hi,<br/> My name is Bashir, but my friends call me Bash. You can too!🥳
 I am a passionate iOS developer and a freelance software engineer from Nigeria. I love the soft life.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/code.gif?raw=true" width="500" height="320" />
