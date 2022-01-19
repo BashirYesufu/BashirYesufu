@@ -8,6 +8,7 @@
 </p>
 
 - 👋 Hi, my name is Bashir, but my friends call me Bash. You can too!🥳
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/BashirYesufu/blob/main/code.gif?raw=true" width="500" height="320" />
 - 👀 I am an iOS Developer
 - 🌱 I’m currently working with Swift, UIKit, Flutter and Dart
 - 💞️ I’m looking to collaborate on projects to help me build my skills
