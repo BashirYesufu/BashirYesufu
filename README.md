@@ -6,7 +6,8 @@
 <a href="https://twitter.com/bash_grey"><img height="30" alt="Bash's Twitter" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/twitter.jpg"></a>
 <a href="https://www.linkedin.com/in/bashir-yesufu-a186a6177/"><img height="30" alt="Bash's LinkedIn" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/linkedin.png"></a>
 </p>
-- 👋 Hi, I’m @BashirYesufu
+
+- 👋 Hi, my name is Bashir, but my friends call me Bash. You can too!🥳
 - 👀 I am an iOS Developer
 - 🌱 I’m currently working with Swift, UIKit, Flutter and Dart
 - 💞️ I’m looking to collaborate on projects to help me build my skills
