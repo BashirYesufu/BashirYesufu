@@ -1,7 +1,10 @@
 ![Header](assets/header.jpg)
 
 <p align='center'>
-<a href="https://www.instagram.com/bash_grey/"><img height="30" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/instagram.png"></a>
+<a href="https://www.instagram.com/bash_grey/"><img height="30" alt="Bash's Instagram" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/instagram.png"></a>
+<a href="https://web.facebook.com/profile.php?id=100003714916486"><img height="30" alt="Bash's Facebook" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/facebook.jpeg"></a>
+<a href="https://twitter.com/bash_grey"><img height="30" alt="Bash's Twitter" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/twitter.jpg"></a>
+<a href="https://www.linkedin.com/in/bashir-yesufu-a186a6177/"><img height="30" alt="Bash's LinkedIn" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/linkedin.png"></a>
 </p>
 - 👋 Hi, I’m @BashirYesufu
 - 👀 I am an iOS Developer
