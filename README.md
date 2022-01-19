@@ -17,10 +17,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
 - 🌱 I’m currently working with Swift, UIKit and SwiftUi. I also have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team.
 <br/>
+
 - 💞️ I’m looking to collaborate on more open-source projects to help the community.
+
 <br/>
+
 - 📫 I can be reached at the social handles above👆🏾 or shoot a mail to me at <img alt="Bash's Mail" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/gmail.jpg" height="30" /> yesufubashir@gmail.com
+
 <br/>
+
 - 🤪 Fun-Fact: The Bourne-Again Shell BASH was actually named after me. Nah! just kidding but wouldn't it be so cool if that were true?
 
 <table>
