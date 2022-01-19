@@ -1,5 +1,8 @@
 ![Header](assets/header.jpg)
 
+<p align='center'>
+<a href="https://www.instagram.com/bash_grey/"><img height="30" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/instagram.png"></a>
+</p>
 - 👋 Hi, I’m @BashirYesufu
 - 👀 I am an iOS Developer
 - 🌱 I’m currently working with Swift, UIKit, Flutter and Dart
