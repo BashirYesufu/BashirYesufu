@@ -1,4 +1,4 @@
-![Header]<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" width=100% height="320" />
+![Header]<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" width=100% height="200" />
 
 <p align='center'>
 <a href="https://www.instagram.com/bash_grey/"><img height="50" alt="Bash's Instagram" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/instagram.png"></a>
