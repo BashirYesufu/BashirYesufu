@@ -8,7 +8,7 @@
 </p>
 
 - 👋 Hi, my name is Bashir, but my friends call me Bash. You can too!🥳
- <img align="right" alt="GIF" src="https://github.com/BashirYesufu/BashirYesufu/main/assets/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/code.gif?raw=true" width="500" height="320" />
  <br/>
  
  
