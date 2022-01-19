@@ -1,4 +1,4 @@
-![Header]<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" width=100% height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" width=100% height="300" />
 <br/>
 
 <p align='center'>
