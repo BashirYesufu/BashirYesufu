@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" width=100% height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" />
+
 <br/>
 
 <p align='center'>
@@ -15,14 +16,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <br/>
  
  
-- 🌱 I’m currently working with Swift, UIKit and SwiftUi. I also have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team.
+- 🌱 I’m currently working with Swift, UIKit and SwiftUi. I also have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team. I am well versed in web development tools like HTLM, CSS, Javascript, Bootstrap and MongoDB. I am also currently learning AWS cloud computing. Github serves a host for the projects I've been working on as well as fun projects I'll be using to learn new concepts and frameworks.
 <br/>
 
 - 💞️ I’m looking to collaborate on more open-source projects to help the community.
 
 <br/>
 
-- 📫 I can be reached at the social handles above👆🏾 or shoot a mail to me at <img alt="Bash's Mail" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/gmail.jpg" height="30" /> yesufubashir@gmail.com
+- 📫 I can be reached on social media using the handles above👆🏾 or shoot me a mail at <img alt="Bash's Mail" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/gmail.jpg" height="30" /> yesufubashir@gmail.com
 
 <br/>
 
