@@ -32,10 +32,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <table>
  <tr>
   <td>
-   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BashirYesufu&show_icons=true&theme=gotham" alt="BashirYesufu" />
+    <img align="left" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/code.gif?raw=true" width="400" height="320" />
   </td>
   <td>
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/code.gif?raw=true" width="400" height="320" />
+   <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=BashirYesufu&show_icons=true&theme=gotham" alt="BashirYesufu" />
   </td>
  </tr>
 </table>
