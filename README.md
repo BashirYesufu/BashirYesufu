@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" />
+<img width=100% align="center" alt="GIF" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/header.jpg" />
 
 <br/>
 
