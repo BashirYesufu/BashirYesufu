@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   </td>
   <td>
    <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=BashirYesufu&show_icons=true&theme=gotham" alt="BashirYesufu" />
-   <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashirYesufu&hide_title=1" alt="BashirYesufu Languages" />
+   <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashirYesufu&hide_title=1&card_width=100%" alt="BashirYesufu Languages" />
   </td>
  </tr>
 </table>
