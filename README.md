@@ -10,13 +10,13 @@
 </p>
 
 - 👋 Hi,<br/> My name is Bashir, but my friends call me Bash. You can too!🥳
-I am a passionate iOS developer and a freelance software engineer from Nigeria. I enjoy travelling and living the soft life.
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.
+I am a software engineer from Nigeria. I enjoy travelling and living the soft life.
+I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.
 
  <br/>
  
  
-- 🌱 I’m currently working with Swift, UIKit, SwiftUi and Python. I also have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team. I am well versed in web development tools like HTLM, CSS, Javascript, Bootstrap and MongoDB. I am also currently learning AWS cloud computing. Github serves a host for the projects I've been working on as well as fun projects I'll be using to learn new concepts and frameworks.
+- 🌱 I’m currently working with Swift, UIKit, SwiftUI and Python. I have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team. I am well versed in web development tools like HTLM, CSS, Javascript, Bootstrap and MongoDB. I am also currently learning AWS Cloud Computing. Github serves as a host for the professional projects I've worked on as well as fun projects I'll be using to learn new concepts and frameworks.
 <br/>
 
 - 💞️ I’m looking to collaborate on more open-source projects to help the community.
