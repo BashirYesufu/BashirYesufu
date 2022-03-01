@@ -15,7 +15,6 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 
  <br/>
  
- 
 - 🌱 I’m currently working with Swift, UIKit, SwiftUI and Python. I have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team. I am well versed in web development tools like HTLM, CSS, Javascript, Bootstrap and MongoDB. I am also currently learning AWS Cloud Computing. Github serves as a host for the professional projects I've worked on as well as fun projects I'll be using to learn new concepts and frameworks.
 <br/>
 
