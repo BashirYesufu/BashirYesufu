@@ -11,7 +11,7 @@
 
 - 👋 Hi,<br/> My name is Bashir, but my friends call me Bash. You can too!🥳
 I am a software engineer from Nigeria. I enjoy travelling and living the soft life.
-I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.
+I am also an open-source enthusiast and maintainer. I'm learning a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.
 
  <br/>
  
