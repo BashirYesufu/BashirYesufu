@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I'm learning a lot from the 
 
 <br/>
 
-- 📫 I can be reached on social media using the handles above👆🏾 or shoot me a mail at <img alt="Bash's Mail" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/gmail.jpg" height="30" /> yesufubashir@gmail.com
+- 📫 I can be reached on social media using the handles above👆🏾 or feel free to shoot me a mail at <img alt="Bash's Mail" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/gmail.jpg" height="30" /> yesufubashir@gmail.com
 
 <br/>
 
