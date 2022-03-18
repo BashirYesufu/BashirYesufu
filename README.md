@@ -26,7 +26,7 @@ I am also an open-source enthusiast and maintainer. I'm learning a lot from the 
 
 <br/>
 
-- 🤪 Fun-Fact: The Bourne-Again Shell BASH was actually named after me. Nah! just kidding but wouldn't it be so cool if that were true?
+- 🤪 Fun-Fact: The Bourne-Again Shell "BASH" was actually named after me. Nah! just kidding but wouldn't it be so cool if that were true?
 
 <table>
  <tr>
