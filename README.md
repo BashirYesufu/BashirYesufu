@@ -4,7 +4,7 @@
 
 <p align='center'>
 <a href="https://www.instagram.com/bash_grey/"><img height="50" alt="Bash's Instagram" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/instagram.png"></a>
-<a href="https://www.linkedin.com/in/bashir-yesufu-a186a6177/"><img height="50" alt="Bash's LinkedIn" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/bash-a186a6177/"><img height="50" alt="Bash's LinkedIn" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/linkedin.png"></a>
 </p>
 
 - 👋 Hi,<br/> My name is Bashir, but my friends call me Bash. You can too!🥳
